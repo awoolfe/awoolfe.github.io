@@ -9,8 +9,9 @@ tags:
   - vegan
   - weeknight
 ---
-![IMG_0851](https://github.com/awoolfe/awoolfe.github.io/assets/46086565/d3063fff-c65f-4515-be7a-e9662269b005){:width="60%"}
+![IMG_0851](https://github.com/awoolfe/awoolfe.github.io/assets/46086565/d3063fff-c65f-4515-be7a-e9662269b005){:width="60%"; style="float: left; margin-right: 1em;"}
 ![IMG_2584](https://github.com/awoolfe/awoolfe.github.io/assets/46086565/3a256679-7dc6-4f38-a1c9-8159f2277a0f){:width="60%"}
+
 *serving suggestions*
 
 A great vegan weeknight recipe!
