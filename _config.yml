@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Collection of recipes by Alessia.
 twitter_username: awoolfe
 github_username: awoolfe
-theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: sunrise
 search: true
 
