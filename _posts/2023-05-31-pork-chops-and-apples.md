@@ -8,8 +8,6 @@ tags:
   - apples
 ---
 
-Homemade Pizza
-
 ## Shopping List
 - Pork chops
 - Apples OR pears
