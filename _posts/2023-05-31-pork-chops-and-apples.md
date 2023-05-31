@@ -8,6 +8,8 @@ tags:
   - apples
 ---
 
+Name a better trio than Pork, Apples, & Beer
+
 ## Shopping List
 - Pork chops
 - Apples OR pears
