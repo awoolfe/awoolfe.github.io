@@ -8,10 +8,9 @@ tags:
   - apples
 ---
 
-![porkandapples](https://github.com/awoolfe/awoolfe.github.io/assets/25068793/859da97a-4131-48a5-b849-c6c0cd745e1c)
+![porkandapples](https://github.com/awoolfe/awoolfe.github.io/assets/25068793/859da97a-4131-48a5-b849-c6c0cd745e1c){:width="50%"; style="float: left; margin-right: 1em;"}
 
-
-Name a better trio than Pork, Apples, & Beer
+*name a better trio than pork, apples, & beer*
 
 ## Shopping List
 - Pork chops
