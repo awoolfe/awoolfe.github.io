@@ -8,7 +8,7 @@ tags:
   - baking
 ---
 
-![352572021_219950400940701_57924785537064463_n](https://github.com/awoolfe/awoolfe.github.io/assets/46086565/9509fede-98a6-4f14-b27d-b479409f0b13)
+![352572021_219950400940701_57924785537064463_n](https://github.com/awoolfe/awoolfe.github.io/assets/46086565/9509fede-98a6-4f14-b27d-b479409f0b13){:width="50%"; style="float: left; margin-right: 1em;"}
 
 *You should only assemble the cake when it is completely cool and the curd has thickened. You can make the curd and icing in advance!*
 
