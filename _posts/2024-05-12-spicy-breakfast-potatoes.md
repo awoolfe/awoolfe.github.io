@@ -21,7 +21,7 @@ tags:
 - 1-2 Egg(s)
 - Shredded Cheese (Cheddar is recommended)
 
-Recommended going for a 1:1 potatoe to other veggie ratio (potatoe:[pepper & onion]). Feel free to add your own twist to it. I'm not your dad.
+Recommended going for a 1:1 potato to other veggie ratio (potato:[pepper & onion]). Feel free to add your own twist to it. I'm not your dad.
 
 ## Method
 1. Boil potatoes to soften them up: ~10 minutes. Note -> keep pot of boiled water on the side afterwards.
