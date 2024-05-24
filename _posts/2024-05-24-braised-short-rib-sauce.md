@@ -8,8 +8,10 @@ tags:
   - slowcook
   - notvegan
   - pasta
+
 ---
-![IMG_0851](){:width="50%"; style="float: left; margin-right: 1em;"}
+
+![beef](https://github.com/awoolfe/awoolfe.github.io/assets/46086565/128c2d8b-1d8e-4c5d-9cef-67c4d95f64b2){:width="50%"; style="float: left; margin-right: 1em;"}
 
 *serving suggestions*
 
